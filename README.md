@@ -67,7 +67,7 @@ My focus is on clean architecture, high-quality UI/UX, and production-ready engi
 
 ## Contact
 
-- Portfolio: [anjalsalicom.vercel.app](https://anjalsalicom.vercel.app/)
+- Portfolio: [anjalsalicom.vercel.app](https://anjalsali.vercel.app)
 - LinkedIn: [linkedin.com/in/anjalsali](https://linkedin.com/in/anjalsali)
 
 <p align="center">
