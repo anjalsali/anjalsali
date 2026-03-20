@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Full-Stack Engineer | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://anjalsalicom.vercel.app/" target="_blank">
+  <a href="https://anjalsali.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/anjalsali" target="_blank">
