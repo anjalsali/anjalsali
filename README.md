@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Anjal Sali 👋</h1>
-<h3 align="center">Software Developer turning ideas into powerful digital solutions</h3>
+<h1 align="center">ANJAL SALI</h1>
+<h3 align="center">Software Developer | Full-Stack Engineer | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://anjalsalicom.vercel.app/" target="_blank">
@@ -8,84 +8,68 @@
   <a href="https://linkedin.com/in/anjalsali" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Anjal%20Sali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/anjalsali" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-anjalsali-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
 
-## About Me
+## About
 
-- Full-stack developer with a strong focus on clean UI, smooth UX, and scalable architecture.
-- Passionate about building intelligent products at the intersection of software engineering and AI.
-- Experienced across frontend, backend, cloud, data, and automation workflows.
-- Building modern, production-ready apps with strong attention to quality, performance, and accessibility.
+I build modern, scalable, and user-focused digital products across frontend, backend, and AI workflows.  
+My focus is on clean architecture, high-quality UI/UX, and production-ready engineering.
 
 ---
 
-## Core Tech Stack
+## Tech Stack
 
 ### Frontend
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Shadcn/UI` `Material UI` `Bootstrap`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css" alt="Frontend stack" />
+</p>
 
 ### Backend & APIs
-`Node.js` `Express.js` `Python` `Django` `FastAPI` `GraphQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,graphql" alt="Backend stack" />
+</p>
 
 ### Databases & Cloud
-`PostgreSQL` `MongoDB` `MySQL` `Supabase` `AWS` `Google Cloud` `Vercel`
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,aws,gcp,vercel" alt="Databases and cloud stack" />
+</p>
 
 ### AI/ML & Data
-`OpenAI` `Hugging Face` `TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `Jupyter`
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and ML stack" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
 
 ### Dev Tools
-`Git` `GitHub Actions` `Docker` `Kubernetes` `Vite` `Jest` `Figma` `Linux`
-
----
-
-## Featured Projects
-
-### 1) Personal Portfolio
-- Live: [anjalsalicom.vercel.app](https://anjalsalicom.vercel.app/)
-- Code: [github.com/anjalsali/portfolio](https://github.com/anjalsali/portfolio)
-- Built with: `React`, `TypeScript`, `TailwindCSS`, `GSAP`, `Framer Motion`, `Vite`
-- Highlights: dark/light mode, animated interactions, smooth section navigation, responsive design
-
-### 2) AI Portfolio Generator
-- AI-driven portfolio generation with smart content and layout suggestions
-- Built with: `Next.js`, `OpenAI`, `TypeScript`, `TailwindCSS`
-
-### 3) Realtime Chat App
-- Modern real-time messaging app with scalable architecture
-- Built with: `React`, `Socket.io`, `Node.js`, `MongoDB`
-
-### 4) E-commerce Analytics Dashboard
-- Interactive analytics dashboard for sales, traffic, and conversions
-- Built with: `TypeScript`, `D3.js`, `Vite`, `Supabase`
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anjalsali&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalsali&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anjalsali&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,vite,jest,figma,linux" alt="Dev tools" />
 </p>
 
 ---
 
-## Let's Connect
+## GitHub Analytics
 
-- Portfolio: [anjalsalicom.vercel.app](https://anjalsalicom.vercel.app)
+<p align="center">
+  <img height="180" src="https://github-contributor-stats.vercel.app/api?username=anjalsali&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Total contributions" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalsali&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+---
+
+## Contact
+
+- Portfolio: [anjalsalicom.vercel.app](https://anjalsalicom.vercel.app/)
 - LinkedIn: [linkedin.com/in/anjalsali](https://linkedin.com/in/anjalsali)
-- Email: `hello@anjalsali.com`
-
----
 
 <p align="center">
-  <i>Open to impactful software roles, collaborations, and innovative product opportunities.</i>
+  <i>Open to software engineering roles, collaborations, and impactful product opportunities.</i>
 </p>
