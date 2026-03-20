@@ -1,4 +1,4 @@
-<h1 align="center">ANJAL SALI/h1>
+<h1 align="center">ANJAL SALI </h1>
 <h3 align="center">Software Developer | Full-Stack Engineer | AI Enthusiast</h3>
 
 <p align="center">
